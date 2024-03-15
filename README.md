@@ -6,7 +6,7 @@
 <h3 align="left">Contact:</h3>
 <p align="left">
 <a href="https://twitter.com/tuzunalovi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tuzunalovi" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/teimuraz-uzunalovi-767910292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teimurazuzunalovi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/teimuraz-uzunalovi-767910292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teimurazuzunalovi" height="30" width="40" /></a>
 <a href="https://instagram.com/temo.uzunalovi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="temo.uzunalovi" height="30" width="40" /></a>
 </p>
 
