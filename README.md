@@ -10,7 +10,7 @@
 <a href="https://instagram.com/temo.uzunalovi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="temo.uzunalovi" height="30" width="40" /></a>
 <h3 align="left">My CV:</h3>
 <p><a href="https://drive.google.com/file/d/1G2dTnkSop7p23s72qYjsMTc1G7R5vytF/view?usp=sharing" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="tuzunalovi" height="30" width="40" /></a>
-<img src="image123.png" align="right" alt="image123" height="150" width="150"></p>
+<img src="https://drive.google.com/file/d/1mxYRGfgqsCdPPjnbTy4sncac_Wqe76F_/view?usp=sharing" align="right" alt="image123" height="150" width="150"></p>
 </p>
 
 <h3 align="left">Skills: </h3>
