@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Temo</h1>
-<h3 align="center">I am a junior Java developer passionate about building efficient and reliable software solutions. With a strong foundation in Java programming</h3>
+<h3 align="center">I am a junior Java developer.
+  passionate about building efficient and reliable software solutions.
+  With a strong foundation in Java programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temouzunalovi&label=Profile%20views&color=0e75b6&style=flat" alt="temouzunalovi" /> </p>
 
